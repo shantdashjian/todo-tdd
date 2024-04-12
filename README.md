@@ -1,5 +1,5 @@
 # Todo List TDD
-A todo list app built with React using TDD with tests written in Vitest, React Testing Library, and Cypress. This demo app was build during the live coding workshop series "Build it from Scratch" I delivered while working as a mentor and trainer @ Scrimba.
+A todo list app built with React using TDD with tests written in Vitest, React Testing Library, and Cypress. This demo app was built during the live coding workshop series "Build it from Scratch" I delivered while working as a mentor and trainer @ Scrimba.
 
 ![home-page](images/home-page.png "Home Page")
 
