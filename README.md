@@ -1,8 +1,35 @@
-# React + Vite
+# Todo List TDD
+A todo list app built with React using TDD with tests written in Vitest, React Testing Library, and Cypress. 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![home-page](images/home-page.png "Home Page")
 
-Currently, two official plugins are available:
+## In This Document:
+- [Live Application URL](#live-application-url)
+- [How to Use the Application](#how-to-use-the-application)
+- [Technologies Used](#technologies-used)
+- [Future Features:](#future-features)
+- [Challenges and Learning Points:](#challenges-and-learning-points)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Live Application URL
+[https://todo-tdd.netlify.app/](https://todo-tdd.netlify.app/)
+
+## How to Use the Application
+### Home Page
+1. A user can add a new todo item to the list.
+2. A user can check off an existing todo item.
+3. A user can delete an existing todo item.
+
+
+## Technologies Used
+1. React.
+2. Vitest, React Testing Library, and Cypress for testing.
+   
+
+## Future Features:
+1. Add the tests to a deployment pipline. 
+
+## Challenges and Learning Points:
+1. It was a fun learning experience to incorporate the React Testing Library and Cypress.
+<hr>
+
+[Up](README.md)
